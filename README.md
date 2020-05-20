@@ -35,79 +35,12 @@
 * [下载加速Clone、AWS、Git镜像](下载加速Clone、AWS、Git镜像/)
 * [软件分享及网页备份](软件分享及网页备份/)
 * [集成实用夹](集成实用夹/)
-* [科学上网、暗网、零网](科学上网、暗网、零网/)
+* [科学上网、暗网、零网](https://github.com/hoochanlon/ss-ssr-vmess-proxy)
+
+**科学上网更新转移至 [ss-ssr-vmess-proxy](https://github.com/hoochanlon/ss-ssr-vmess-proxy)！**
 
 ## 友情小推广
 
-**欢迎关注 [ssrshare](https://www.ssrshare.com/)  及支持 free-ss.site 站长的 [github/free-ss.site](https://github.com/free-ss/free-ss.site)  项目，同时也自推广书籍** ***[《桌面运维管理指南》](https://github.com/hoochanlon/helpdesk-manual)***  😀
+欢迎关注 [ssrshare](https://www.ssrshare.com/)  及支持 free-ss.site 站长的 [github/free-ss.site](https://github.com/free-ss/free-ss.site)  项目，同时也自推广书籍[《桌面运维管理指南》](https://hoochanlon.github.io/helpdesk-manual/notice/ti-analysis.html) 😀
 
-
-<!--
-
-
-<a href="https://github.com/zc-zh-001">
-    <img src="https://avatars3.githubusercontent.com/u/34836102?s=400&v=4" width="50px">
-</a> 
-
-<a href="https://github.com/xiaomingdaily">
-    <img src="https://avatars0.githubusercontent.com/u/17198976?s=400&v=4" width="50px">
-</a>
-
-<a href="https://github.com/the0demiurge">
-    <img src="https://avatars2.githubusercontent.com/u/11363529?s=400&v=4" width="50px">
-</a>
-
-<a href="https://github.com/zebook">
-    <img src="https://avatars2.githubusercontent.com/u/37998749?s=400&v=4" width="50px">
-</a> 
-
-<a href="https://github.com/onplus">
-    <img src="https://avatars0.githubusercontent.com/u/31188782?s=400&v=4" width="50px">
-</a>
-
-
-<a href="https://www.youtube.com/channel/UClceV39J1Z_9D4_mHkBZrMg">
-    <img src="https://yt3.ggpht.com/a-/AN66SAyME4VUGayP4FFwaOXZ6Y--vhZco5ur2o1GAw=s288-mo-c-c0xffffffff-rj-k-no" width="50px">
-</a>
-
-<a href="https://www.youtube.com/channel/UCKLhwl-rqnv1PhbYVekDGkg">
-    <img src="https://yt3.ggpht.com/a-/AAuE7mAW-yhARUMn32Z0uADVPFuCuitGSC2NH4KEug=s288-mo-c-c0xffffffff-rj-k-no" width="50px">
-</a>
-
-<a href="https://www.ssrshare.com/threads/pac.527/">
-    <img src="https://www.ssrshare.com/data/avatars/l/0/1.jpg?1519809172" width="50px">
-</a> 
-
-<a href="https://github.com/jasonliul">
-    <img src="https://avatars2.githubusercontent.com/u/2461165?s=400&v=4" width="50px">
-</a>
-
-<a href="https://github.com/AmazingDM">
-    <img src="https://avatars3.githubusercontent.com/u/10679055?s=400&v=4" width="50px">
-</a>
-
-<a href="https://github.com/rrn21833">
-    <img src="https://avatars2.githubusercontent.com/u/37966911?s=400&v=4" width="50px">
-</a>
-
-<a href="https://github.com/kilofox">
-    <img src="https://avatars0.githubusercontent.com/u/1018625?s=400&v=4" width="50px">
-</a>
-
-<a href="https://github.com/max2max">
-    <img src="https://avatars1.githubusercontent.com/u/14960653?s=400&v=4" width="50px">
-</a>
-
-<a href="https://github.com/w568w">
-    <img src="https://avatars3.githubusercontent.com/u/8389787?s=400&v=4" width="50px">
-</a>
-
-<a href="https://github.com/myie9">
-    <img src="https://avatars1.githubusercontent.com/u/6618073?s=400&v=4" width="50px">
-</a>
-
-<a href="https://github.com/hoodiearon">
-    <img src="https://avatars1.githubusercontent.com/u/35732922?s=400&u=860437c0da02d577fdd546c8f3bfd305539c388f&v=4" width="50px">
-</a>
-
--->
+<!--🍅冲出你的窗口，Git镜像、Clone 及AWS下载加速、FREE SS/SSR/VMESS、WireGuard配置分享、IPFS、暗网等其他资源存储库-->
