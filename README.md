@@ -22,7 +22,7 @@
 
 ***[w3-goto-world资源存储库 web版](https://hoochanlon.github.io/w3-goto-world/)***
 
-**** [ss-ssr-vmess-proxy repo](https://github.com/hoochanlon/ss-ssr-vmess-proxy)***
+*** [ss-ssr-vmess-proxy repo](https://github.com/hoochanlon/ss-ssr-vmess-proxy)***
 
 ***[wiki w3-goto-world](https://github.com/hoochanlon/w3-goto-world/wiki/w3-goto-world-wiki)*** 
 
